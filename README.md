@@ -1,5 +1,6 @@
 # Taxi-Game
 ### Overview
+![alt text](sample.png)
 A very simple game simulating drivers picking up passengers using a grid.
 ### Gameplay
 The game has the following elements
