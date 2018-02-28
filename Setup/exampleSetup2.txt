@@ -1,0 +1,12 @@
+dimension 15 15
+player 10 10
+rider 2 3
+robocar 5 6 east
+robocar 9 9 random
+robocar 12 14 random
+robocar 11 2 random
+robocar 13 6 random
+obstacle 3 2
+obstacle 8 9
+obstacle 9 11
+obstacle 11 14
