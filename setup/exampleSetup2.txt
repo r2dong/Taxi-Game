@@ -1,6 +1,6 @@
 dimension 15 15
 player 10 10
-rider 2 3
+rider 1 1
 robocar 5 6 east
 robocar 9 9 random
 robocar 12 14 random
